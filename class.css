@@ -1,0 +1,7 @@
+.circle {
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 40px solid red;
+    height: 40px;
+    width: 40px;
+}
